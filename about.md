@@ -8,7 +8,11 @@ Yun Lin is a researcher in the
 [JIFRESSE](https://jifresse.ucla.edu/)
 at The University of California, Los Angeles; research in environmental and atmospheric sciences. Yun received a BS and MS in Environmental Sciences from Peking University, China, and a PhD in Atmospheric Sciences from the University of Texas A&M.
 
-My research interests are applying molecular simulation, theory and machine learning to understand and predict the phase equilibria, transport and chemical reactions of complex fluids at interfaces, surfaces and in confined systems, and developing novel porous materials for a more sustainable future.
+My research interests are 
+1)	Aerosol-cloud-precipitation interactions using regional-scale models;
+2)	Experimental and theoretical study of aerosol clustering and formation;
+3)	Laboratory measurements of air pollution emissions and characteristics.
+
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
 [ORCID](https://orcid.org/0000-0001-8222-0346)<br/>
