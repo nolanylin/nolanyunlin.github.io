@@ -1,11 +1,11 @@
 ---
 layout: page
-title: about
+title: About
 description: Dr. Yun Lin is a researcher in Environmental and climatic effects of air pollution
 ---
 
 Yun Lin is a researcher in the
-[Joint Institute for Regional Earth System Science & Engineering (JIFRESSE)](https://jifresse.ucla.edu/)
+[JIFRESSE](https://jifresse.ucla.edu/)
 at The University of California, Los Angeles; research in environmental and atmospheric sciences. Yun received a BS and MS in Environmental Sciences from Peking University, China, and a PhD in Atmospheric Sciences from the University of Texas A&M.
 
 My research interests are applying molecular simulation, theory and machine learning to understand and predict the phase equilibria, transport and chemical reactions of complex fluids at interfaces, surfaces and in confined systems, and developing novel porous materials for a more sustainable future.
@@ -19,23 +19,22 @@ he/him
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="Contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
-            <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="https://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
+            Yun Lin<br/>
+            JIFRESSE
+            <a href="https://www.biostat.wisc.edu">Joint Institute for Regional Earth System Science and Engineering</a><br/>
+            4242 Young Hall ‐ 607 Charles E. Young Drive East<br/>
+            Los Angeles, CA 90095‐7228<br/>
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
+            Email: <code>yunlin</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code></code><b>So</b><code></code><b>please</b><code>uc</code><b>leave
+            </b><code>la</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Phone: 
             </div>
         </div>
 
