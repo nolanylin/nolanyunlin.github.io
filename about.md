@@ -11,7 +11,7 @@ at The University of California, Los Angeles; research in environmental and atmo
 My research interests are applying molecular simulation, theory and machine learning to understand and predict the phase equilibria, transport and chemical reactions of complex fluids at interfaces, surfaces and in confined systems, and developing novel porous materials for a more sustainable future.
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
-[orcid](https://orcid.org): [0000-0001-8222-0346](https://orcid.org/0000-0001-8222-0346)<br/>
+[ORCID](https://orcid.org/0000-0001-8222-0346)<br/>
 [google scholar](https://scholar.google.com/citations?user=HUUiCsoAAAAJ&hl=en)<br/>
 [github](https://github.com/nolanylin.github.io)<br/>
 he/him
@@ -25,7 +25,7 @@ he/him
         <div class="span5">
             Yun Lin<br/>
             JIFRESSE
-            <a href="https://www.biostat.wisc.edu">Joint Institute for Regional Earth System Science and Engineering</a><br/>
+            <a href="https://jifresse.ucla.edu/">Joint Institute for Regional Earth System Science and Engineering</a><br/>
             4242 Young Hall ‐ 607 Charles E. Young Drive East<br/>
             Los Angeles, CA 90095‐7228<br/>
             USA<br/><br/>
