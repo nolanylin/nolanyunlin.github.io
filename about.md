@@ -14,11 +14,10 @@ My research interests are
 3)	Laboratory measurements of air pollution emissions and characteristics.
 
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/yun_cv.pdf)<br/>
 [ORCID](https://orcid.org/0000-0001-8222-0346)<br/>
 [google scholar](https://scholar.google.com/citations?user=HUUiCsoAAAAJ&hl=en)<br/>
 [github](https://github.com/nolanylin.github.io)<br/>
-he/him
 
 ---
 
