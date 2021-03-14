@@ -10,8 +10,6 @@ keywords: Environment, climate, air pollution
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/nolanylin">github</a></li>
-          <li><a href="https://kbroman.org/blog">blog</a></li>
-          <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
       </ul>
   </div>
 </div>
