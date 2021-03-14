@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 description: Dr. Yun Lin is a researcher in Environmental and climatic effects of air pollution
 ---
 
